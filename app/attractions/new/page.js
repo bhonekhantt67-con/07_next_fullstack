@@ -52,3 +52,4 @@ export default function NewAttractionPage() {
     </div>
   );
 }
+
